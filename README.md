@@ -22,8 +22,8 @@ Step 6: Launch an emulator and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by: B.Kavya
-Registeration Number : 212220230007
+Developed by: Dinesh.S
+Registeration Number : 212220230011
 */
 ```
 ### MainActivity.java
